@@ -128,7 +128,7 @@ function App() {
       <footer id="footer">
         <div className="footer-content">
           <div>
-            <h2>Foodie 🍔</h2>
+            <h2>Foodie </h2>
             <p>
               Delicious food delivered fresh and fast to
               your doorstep.
